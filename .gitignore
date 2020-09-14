@@ -13,6 +13,7 @@ target/
 *.classpath
 .project
 /.metadata/
+commonClassesInterfaces*
 
 ## Java related
 target/**
