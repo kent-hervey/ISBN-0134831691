@@ -4,6 +4,8 @@ Authors have introduced the idea of an ADT which is an abstraction or generaliza
 
 This project uses the provided bag interface; it implements it using the piggy bank example suggested in the video by Henry
 
+Starting off, will just implement the various methods in the interface.
+
 
 
 
